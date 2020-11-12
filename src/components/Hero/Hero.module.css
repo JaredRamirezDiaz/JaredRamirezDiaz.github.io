@@ -1,0 +1,56 @@
+.heroFirstName {
+  /* font-family: Bebas Neue, cursive;
+  font-size: 3.8rem;
+  letter-spacing: 1.5px;
+  /* border: red solid 1px; */
+  top: 65px;
+  position: relative;
+  color: #2c475a;
+
+  font-family: Bebas Neue, cursive;
+  /* font-size: 6vw; */
+  font-size: 60px;
+  letter-spacing: 1.5px;
+  /* position: absolute; */
+  /* top: 110px; */
+}
+
+.heroLastName {
+  font-family: Bebas Neue, cursive;
+  /* font-size: 6vw; */
+  /* font-size: 45px; */
+  font-size: 10vmin;
+
+  letter-spacing: 1.5px;
+  position: absolute;
+  top: 107px;
+  /* margin-top: 1vw; */
+}
+
+.herobackground {
+  background-color: #c4cec9;
+  background-size: cover;
+  height: 235px;
+}
+
+.heroSecondPlane {
+  background-color: none !important;
+  background-position: top center !important;
+  background-size: cover !important;
+  height: 172px !important;
+  position: absolute !important;
+  top: 70px !important;
+  right: 0px !important;
+  width: 100% !important;
+  /* margin-top: -1vw; */
+}
+
+.heroFirstPlane {
+  background-size: cover !important;
+  height: 172px !important;
+  position: absolute !important;
+  top: 70px !important;
+  left: 0px !important;
+  background-position: top right !important;
+  width: 100% !important;
+}
